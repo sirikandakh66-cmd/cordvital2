@@ -1,6 +1,6 @@
 #include <BlynkGOv3.h>
 
-// ================= Global =================
+// ================= Global ================
 GLabel label_0, label_1, label_2;
 GButton btn_0, btn_1;
 
